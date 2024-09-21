@@ -1,3 +1,0 @@
-C:/Users/techn/OneDrive/Escritorio/ALLIO/cmake-build-debug/CMakeFiles/ALLIO.dir
-C:/Users/techn/OneDrive/Escritorio/ALLIO/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/techn/OneDrive/Escritorio/ALLIO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
